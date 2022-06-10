@@ -1,0 +1,8 @@
+name: DellunaBackpack
+version: '${project.version}'
+main: me.tt.dellunabackpack.Main
+api-version: 1.18
+commands:
+  bp:
+    aliases:
+      - 가방
